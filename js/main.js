@@ -12,7 +12,7 @@ function menu(){
             <li class="nav-item">
                 <a href="#"><h5 class="text-white h4">Cerrar sesión</h5></a>
                 <a href="./categorias.html"><span class="text-muted">Categorias</span></a><br>
-                <a href=".productos.html"><span class="text-muted">Productos</span></a><br>
+                <a href="./productos.html"><span class="text-muted">Productos</span></a><br>
                 <a href="./movimientos.html"><span class="text-muted">Movimientos</span></a><br>
                 <a href="./busqueda.html"><span class="text-muted">Busqueda</span></a>
             </li>
