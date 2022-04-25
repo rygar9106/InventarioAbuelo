@@ -5,3 +5,6 @@ a{
     margin-left: 5%;
     margin-right: 20%;
 }
+.prueba{
+    align-self: flex-end;
+}
